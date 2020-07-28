@@ -25,7 +25,6 @@ These are all the commuting challenges.
 5. Design a welcome screen for a smart fridge to help educate kids about food waste.
 
 # Household
-1. Help people switch or partially replace production heavy products (like red meat).
 
 # Shopping
 1. Help people to save energy (heating, water, electricity) in their homes.
