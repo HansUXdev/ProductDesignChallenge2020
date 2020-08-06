@@ -1,5 +1,18 @@
 # [Challenges](https://productdesign.tips/challenge)
 
+# My Interests
+1. Help people to use gasoline cars in cities less often.
+2. Design a route selection feature for a navigation app to encourage tourists to take more walking routes in cities.
+3. Design a gamified competition feature for a smartwatch app to encourage people from one office commute to work on foot or cycle.
+
+# Problems to solve
+1. Help people to use gasoline cars in cities less often.
+1. Help people switch or partially replace production heavy products (like red meat).
+1. Help people to reduce wasted food.
+1. Help people to save energy (heating, water, electricity) in their homes.
+1. Help people to discover local destinations.
+
+
 # Commuting 
 These are all the commuting challenges.
 
@@ -25,11 +38,18 @@ These are all the commuting challenges.
 5. Design a welcome screen for a smart fridge to help educate kids about food waste.
 
 # Household
-
-# Shopping
 1. Help people to save energy (heating, water, electricity) in their homes.
 2. Design an electricity and water report screen for a smart home app that will help people consume water and electricity more efficiently.
 3. Design an expense report screen for personal finance app to help people reduce household bills.
 
+# Shopping
+1. Help people to make their stuff last longer.
+2. Design a late shipping options select screen for e-commerce app to help people reduce ‘dry runs’ of delivery cars.
+3. Design checkout screens for e-commerce app to help people recycle the goods they buy.
+4. Design an AR shoe measure feature for clothing e-commerce app to help senior citizens shop contactless.
+
 # Travel
-1. Help people switch or partially replace production heavy products (like red meat).
+1. Help people to discover local destinations.
+2. Design a search feature for travel booking app to help travelers find less carbon-heavy trips.
+3. Design a filter feature for a hotel booking app to help people stay in green hotels.
+4. Design a flight search feature for flight tickets app to help people reduce their carbon footprint.

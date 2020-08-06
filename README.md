@@ -15,7 +15,7 @@ To communicate I plan to use zoom for group meetings and the the official [Slack
 2. [Productdesign.tips Chrome Extention](https://chrome.google.com/webstore/detail/productdesigntips/jfkbdlhcdoooljpkfjfllhlgeejhabbb)
 
 ## Why on github?
-Why not. Githu is awesome and you should be using it even if you don't code.
+Why not. Github is awesome and you should be using it even if you don't code.
 
 
 # Winning?
